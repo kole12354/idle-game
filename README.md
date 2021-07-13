@@ -1,2 +1,2 @@
 # idle-game
-this file is kinda useless
+its a gold mine
